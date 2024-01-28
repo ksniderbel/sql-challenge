@@ -19,4 +19,6 @@ Specific data sets were requested by the client as follows:
 
 Each of these queries is contained in the query_tables.sql.
 
+Assistance was obtained from the Teaching Assistants and multiple sites that were obtained via Google.
+
 Final observation:  This company employs a statistically unlikely amount of people named Hercules B.
